@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "353832474925",
+    "project_id": "kokachat",
+    "storage_bucket": "kokachat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:353832474925:android:ab31c397efb3810dd35ba4",
+        "android_client_info": {
+          "package_name": "com.example.kokachat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "353832474925-ujn78rhptcmn05ncul9m14ccvfgoldea.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXuGHu1A7xlS2AjaoQPVaq_oLcO5pANXs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "353832474925-ujn78rhptcmn05ncul9m14ccvfgoldea.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
